@@ -26,7 +26,7 @@ A collection of resources for language learners.
 ## Contents
 
 - [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Online Tutoring](#online-tutoring)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -35,14 +35,35 @@ A collection of resources for language learners.
 
 - [Apple](https://apple.com) - Apple as a placeholder.
 
-## Section 1
+## Online Tutoring
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [iTalki](https://www.italki.com/) - Flexible individual tutoring from foreign language speakers across the world!
+- [Rosetta Stone iOS](https://www.rosettastone.com) - Group tutoring available
 
 <!-- END CONTENT -->
 
 ## Follow
 
+- YouTube Channels
+    - Polyglots
+        - [Luca Lampariello](https://www.youtube.com/user/poliglotta80)
+        - [Steve Kauffman](https://www.youtube.com/c/Thelinguist)
+    - Individual Languages
+        - [Easy Languages](https://www.youtube.com/c/learnlanguages) (Easy German, Easy Spanish, Easy French, etc.)
+        - [innerFrench](https://www.youtube.com/c/innerFrench)
+
+- Podcasts
+    - [Radio Lingua Network](https://radiolingua.com/)
+        - CoffeeBreak French
+        - CoffeeBreak Italian
+        - CoffeeBreak Chinese
+        - CoffeeBreak German
+        - CoffeeBreak Spanish
+        - CoffeeBreak English
+        - CoffeeBreak Swedish
+        - CoffeeBreak Conversations
+        
+    
 <!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
 
 Who else should we be following!?
