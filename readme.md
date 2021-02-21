@@ -25,20 +25,46 @@ A collection of resources for language learners.
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
 - [Online Tutoring](#online-tutoring)
+- [Apps](#apps)
+- [Web APIs](#web-apis)
+- [Software Internationalization](#software-internationalization)
+- [Foreign Language Extraction with Python](#foreign-language-extraction-with-python)
 - [Follow](#follow)
 
 <!-- CONTENT -->
-
-## Featured (new releases)
-
-- [Apple](https://apple.com) - Apple as a placeholder.
 
 ## Online Tutoring
 
 - [iTalki](https://www.italki.com/) - Flexible individual tutoring from foreign language speakers across the world!
 - [Rosetta Stone iOS](https://www.rosettastone.com) - Group tutoring available
+
+## Apps
+
+- [Duolingo](https://www.duolingo.com/)
+- [LingQ](https://www.lingq.com/en/)
+- [Lingvist](https://lingvist.com/)
+
+## Web APIs
+
+- [Google Translate](https://cloud.google.com/translate/docs/apis)
+- [LingvaNex](https://lingvanex.com/)
+
+## Software Internationalization
+
+- Python
+    - [gettext](https://docs.python.org/3/library/gettext.html) - Provides internationalization (I18N) and localization (L10N) services for your Python modules and applications
+- Misc. Software
+    - [Poedit](https://poedit.net/) - Allows you to translate apps & sites with gettext
+
+## Foreign Language Extraction with Python
+1) Tesseract (Configure before utilizing pytesseract) 
+    - Mac
+        - [Brew Installation](https://formulae.brew.sh/formula/tesseract)
+    - Windows
+        - [Chocolatey](https://chocolatey.org/packages/tesseract/5.0.0.20201127-alpha)
+        - [Tesseract-OCR](https://tesseract-ocr.github.io/tessdoc/Downloads.html)
+2) [pytesseract](https://github.com/madmaze/pytesseract)
 
 <!-- END CONTENT -->
 
