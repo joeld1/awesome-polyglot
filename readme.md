@@ -88,6 +88,7 @@ A collection of resources for language learners.
     - Individual Languages
         - [Easy Languages](https://www.youtube.com/c/learnlanguages) (Easy German, Easy Spanish, Easy French, etc.)
         - [innerFrench](https://www.youtube.com/c/innerFrench)
+        - [Mandarin Corner](https://www.youtube.com/channel/UC2fAiRQHRQT9aj9P_ijYeow/featured)
 
 - Podcasts
     - [Radio Lingua Network](https://radiolingua.com/)
@@ -99,7 +100,8 @@ A collection of resources for language learners.
         - CoffeeBreak English
         - CoffeeBreak Swedish
         - CoffeeBreak Conversations
-        
+- Publications
+    - [Assimil]
     
 <!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
 
