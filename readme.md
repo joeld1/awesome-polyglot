@@ -30,6 +30,8 @@ A collection of resources for language learners.
 - [Web APIs](#web-apis)
 - [Software Internationalization](#software-internationalization)
 - [Foreign Language Extraction with Python](#foreign-language-extraction-with-python)
+- [Python Packages](#python-packages)
+- [Screen Readers](#screen-readers)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -41,9 +43,9 @@ A collection of resources for language learners.
 
 ## Apps
 
-- [Duolingo](https://www.duolingo.com/)
-- [LingQ](https://www.lingq.com/en/)
-- [Lingvist](https://lingvist.com/)
+- [Duolingo](https://www.duolingo.com/) - Exercises and lessons in random order
+- [LingQ](https://www.lingq.com/en/) - Steve Kauffman's app
+- [Lingvist](https://lingvist.com/) - Allows you to improve and track progress on vocabulary on complex topics
 
 ## Web APIs
 
@@ -65,6 +67,14 @@ A collection of resources for language learners.
         - [Chocolatey](https://chocolatey.org/packages/tesseract/5.0.0.20201127-alpha)
         - [Tesseract-OCR](https://tesseract-ocr.github.io/tessdoc/Downloads.html)
 2) [pytesseract](https://github.com/madmaze/pytesseract)
+
+## Python Packages
+- [ocrmypdf](https://github.com/jbarlow83/OCRmyPDF) - Allows you to easily OCR pdfs with foreign text
+
+## Screen Readers
+- [NVDA](https://www.nvaccess.org/download/)
+    - When utilized with the following add-on [instantTranslate](https://addons.nvda-project.org/addons/instantTranslate.en.html), can translate any text found on your computer. Useful if you've changed your computer language settings to a foreign language and need to translate text. 
+
 
 <!-- END CONTENT -->
 
@@ -100,7 +110,7 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/awesome-polyglot/graphs/contributors)! -->
+[Thanks goes to these contributors](https://github.com/awesome-polyglot/graphs/contributors)
 
 ## License
 
