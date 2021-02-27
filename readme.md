@@ -39,6 +39,7 @@ A collection of resources for language learners.
 ## Online Tutoring
 
 - [iTalki](https://www.italki.com/) - Flexible individual tutoring from foreign language speakers across the world!
+- [Verbling](https://www.verbling.com/) - Individual tutoring, similar to iTalki.  
 - [Rosetta Stone iOS](https://www.rosettastone.com) - Group tutoring available
 
 ## Apps
