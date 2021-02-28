@@ -101,7 +101,8 @@ A collection of resources for language learners.
         - CoffeeBreak Swedish
         - CoffeeBreak Conversations
 - Publications
-    - [Assimil]
+    - [Assimil](https://www.assimil.com/en/)
+
     
 <!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
 
