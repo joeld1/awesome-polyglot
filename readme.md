@@ -71,6 +71,25 @@ A collection of resources for language learners.
 
 ## Python Packages
 - [ocrmypdf](https://github.com/jbarlow83/OCRmyPDF) - Allows you to easily OCR pdfs with foreign text
+    - Most languages supported by Tesseract 
+- [arabic-pronounce](https://github.com/youssefsharief/arabic_pronounce) - Phonetises Arabic
+    - Arabic
+- [Nour](https://github.com/khalidt/Nour) - Arabic to braille and vice-versa
+    - Arabic, Braille
+- [PyBraille](https://github.com/vineethsubbaraya/pybraille) - Text to 6-dot braille (Grade 1)
+    - Unified English Braille
+- [MLConjug3](https://github.com/SekouDiaoNlp/mlconjug3) - Conjugate verbs in French, English, Spanish, Italian, Portuguese, Romanian using Machine Learning techniques.
+    - French
+    - English
+    - Spanish
+    - Italian
+    - Portuguese
+    - Romanian
+- [LanguagePod101-Scraper](https://github.com/nedlir/languagepod101-scraper) - Scrape LanguagePod101 Podcasts
+    - Most languages found on LanguagePod101
+- [Spacy-lefff](https://github.com/sammous/spacy-lefff) - PoS tagging and Lemmatizaion for French text via spaCy
+    - French
+    
 
 ## Screen Readers
 - [NVDA](https://www.nvaccess.org/download/)
