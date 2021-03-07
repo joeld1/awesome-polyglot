@@ -89,7 +89,10 @@ A collection of resources for language learners.
     - Most languages found on LanguagePod101
 - [Spacy-lefff](https://github.com/sammous/spacy-lefff) - PoS tagging and Lemmatizaion for French text via spaCy
     - French
-    
+- [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
+    - All languages supported by online translators
+- [name-gender-classifier](https://github.com/joaoalvarenga/namegenderclassifier) - Classify the gender of a Portuguese name.
+    - Brazilian Portuguese 
 
 ## Screen Readers
 - [NVDA](https://www.nvaccess.org/download/)
