@@ -52,6 +52,8 @@ A collection of resources for language learners.
 
 - [Google Translate](https://cloud.google.com/translate/docs/apis)
 - [LingvaNex](https://lingvanex.com/)
+- [deepl](https://www.deepl.com/en/docs-api/)
+- [happyscribe](https://dev.happyscribe.com/#introduction)
 
 ## Software Internationalization
 
@@ -93,6 +95,9 @@ A collection of resources for language learners.
     - All languages supported by online translators
 - [name-gender-classifier](https://github.com/joaoalvarenga/namegenderclassifier) - Classify the gender of a Portuguese name.
     - Brazilian Portuguese 
+- [Reverso-API](https://github.com/demian-wolf/ReversoAPI)
+    - This is a wrapper around Reverso's (reverso.net) API for Python.
+
 
 ## Screen Readers
 - [NVDA](https://www.nvaccess.org/download/)
@@ -124,6 +129,12 @@ A collection of resources for language learners.
         - CoffeeBreak Conversations
 - Publications
     - [Assimil](https://www.assimil.com/en/)
+- Websites
+    - [jisho](https://jisho.org/)
+    - [Context Reverso](https://context.reverso.net/translation/)
+    - [happyscribe](https://www.happyscribe.com/)
+    - [deepl](https://www.deepl.com/translator)
+    
 
     
 <!-- list people worth following on social sites (twitter, linkedin, github, youtube etc.) -->
