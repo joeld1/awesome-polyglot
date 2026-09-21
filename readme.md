@@ -47,6 +47,7 @@ A collection of resources for language learners.
 - [Duolingo](https://www.duolingo.com/) - Exercises and lessons in random order
 - [LingQ](https://www.lingq.com/en/) - Steve Kauffman's app
 - [Lingvist](https://lingvist.com/) - Allows you to improve and track progress on vocabulary on complex topics
+- [Rolko](https://www.rolko.xyz/) - Webpage word lookup for Japanese, Chinese and Korean, with AI-assisted features; basic lookup is free, while selected-word saving and spaced-repetition review require a paid plan.
 
 ## Web APIs
 
