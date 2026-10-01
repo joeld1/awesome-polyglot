@@ -47,6 +47,7 @@ A collection of resources for language learners.
 - [Duolingo](https://www.duolingo.com/) - Exercises and lessons in random order
 - [LingQ](https://www.lingq.com/en/) - Steve Kauffman's app
 - [Lingvist](https://lingvist.com/) - Allows you to improve and track progress on vocabulary on complex topics
+- [BrioVocab](https://briovocab.com/) - French vocabulary app with illustrated A1-B2 word sets, custom words, and personalized spaced repetition based on review history. Available on [App Store](https://apps.apple.com/app/id6793255945) and [Google Play](https://play.google.com/store/apps/details?id=com.briovocab.googleplay.app).
 
 ## Web APIs
 
