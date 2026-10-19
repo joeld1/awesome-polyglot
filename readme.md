@@ -134,6 +134,7 @@ A collection of resources for language learners.
     - [Context Reverso](https://context.reverso.net/translation/)
     - [happyscribe](https://www.happyscribe.com/)
     - [deepl](https://www.deepl.com/translator)
+    - [manga translator](https://www.mangatranslate.com) - MangaTranslate provides cloud-based batch image translation and PDF translation with a browser editor for reviewing text and page layout, limited daily web credits and paid plans.
     
 
     
