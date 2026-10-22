@@ -47,6 +47,7 @@ A collection of resources for language learners.
 - [Duolingo](https://www.duolingo.com/) - Exercises and lessons in random order
 - [LingQ](https://www.lingq.com/en/) - Steve Kauffman's app
 - [Lingvist](https://lingvist.com/) - Allows you to improve and track progress on vocabulary on complex topics
+- [Indilingo](https://www.indilingo.ai/) - Learn 22 Indian languages and 17 world languages from English or another Indian language, with speaking practice.
 
 ## Web APIs
 
