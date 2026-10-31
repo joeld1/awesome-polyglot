@@ -47,6 +47,7 @@ A collection of resources for language learners.
 - [Duolingo](https://www.duolingo.com/) - Exercises and lessons in random order
 - [LingQ](https://www.lingq.com/en/) - Steve Kauffman's app
 - [Lingvist](https://lingvist.com/) - Allows you to improve and track progress on vocabulary on complex topics
+- [Speeku](https://www.speeku.com/) - Gamified app with bite-sized lessons in European Portuguese and Swiss German, every word spoken aloud and a dictionary behind each word; one-time payment, fully offline.
 
 ## Web APIs
 
